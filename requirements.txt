@@ -1,16 +1,5 @@
 gitdb==4.0.9
 GitPython==3.1.24
-Pillow==8.4.0
-PyQt5==5.15.5
-PyQt5-Qt5==5.15.2
-PyQt5-sip==12.9.0
-PyQt5-stubs==5.15.2.0
-selfupdate==0.2.0
-smmap==5.0.0
-typing-extensions==3.10.0.2
-PS C:\Users\Dima\PycharmProjects\YandexProject> pip freeze
-gitdb==4.0.9
-GitPython==3.1.24
 numpy==1.21.4
 Pillow==8.4.0
 PyQt5==5.15.5
